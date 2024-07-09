@@ -1,1 +1,1 @@
-[![codecov](https://codecov.io/github/kayarmolenka/husky/graph/badge.svg?token=7XSFHFULEB)](https://codecov.io/github/kayarmolenka/husky)
+[![codecov](https://codecov.io/github/kayarmolenka/husky/branch/master/graph/badge.svg?token=7XSFHFULEB)](https://codecov.io/github/kayarmolenka/husky)
